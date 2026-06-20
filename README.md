@@ -28,6 +28,7 @@ MlRF Assignment Submission
 
 ### 2. Data Quality Issue
 After reviewing the dataset, the following  data quality issues were observed:
+
   1.Outliers may exist in variables such as electorate size,total households, MGNREGS Active Job Cards and PM-KISAN beneficiaries.
   2. Percentage variables such as Voter Turnout, Literacy Rate, and Internet 4G Coverage are all within the valid range of 0-100.
   3.  The Dataset should still be checked for missing values and consistency before advanced analysis.
