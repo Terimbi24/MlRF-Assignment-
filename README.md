@@ -33,7 +33,7 @@ After reviewing the dataset, the following are the data quality issues were obse
 . The Dataset should still be checked for missing values and consistency before advanced analysis.
 Therefore, the dataset appears suitable for analysis with ony routine validation checks required.
 
-###3. Derived Columns
+### 3. Derived Columns
    1. BPL Households 
    Formula: ( BPL Household Count/ Total Households)* 100
    Reason : The absolute number of BPL households does not account for difference in constitency size. Converting it into a percentage a better measure of poverty levels and allows meaningful comparison across constituencies.
