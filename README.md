@@ -32,3 +32,11 @@ After reviewing the dataset, the following are the data quality issues were obse
 . Percentage variables such as Voter Turnout, Literacy Rate, and Internet 4G Coverage are all within the valid range of 0-100.
 . The Dataset should still be checked for missing values and consistency before advanced analysis.
 Therefore, the dataset appears suitable for analysis with ony routine validation checks required.
+
+###3. Derived Columns
+   1. BPL Households 
+   Formula: ( BPL Household Count/ Total Households)* 100
+   Reason : The absolute number of BPL households does not account for difference in constitency size. Converting it into a percentage a better measure of poverty levels and allows meaningful comparison across constituencies.
+  2. PK-KISAN Coverage rate
+     Formula: (PK-KISAN Beneficiaries/ Total Households)*100
+     Reason : This Measure the  Proportion of households receiving PM-KISAN benefits. It helps asses the reach of  agricultural welfare support across constituencies and highlights areas where beneficiary coverage may be relatively low.
