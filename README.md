@@ -3,7 +3,7 @@ MlRF Assignment Submission
 
 ## Section 1: Data Audit
 
-### Summary Statistics
+### 1 Summary Statistics
 
 **Numerical Columns (8):**
 1. Electorate size
@@ -25,3 +25,10 @@ MlRF Assignment Submission
 | PM-KISAN Beneficiaries | 744.63 | 732 | 176 | 1634 | 337.32 |
 | Literacy Rate% | 75.83 | 75.7 | 58.7 | 95.3 | 10.09 |
 | Internet 4G Coverage% | 51.92 | 45.5 | 18.1 | 96.9 | 21.56 |
+
+### 2. Data Quality Issue
+After reviewing the dataset, the following are the data quality issues were observed:
+. Outliers may exist in variables such as electorate size,total households, MGNREGS Active Job Cards and PM-KISAN beneficiaries.
+. Percentage variables such as Voter Turnout, Literacy Rate, and Internet 4G Coverage are all within the valid range of 0-100.
+. The Dataset should still be checked for missing values and consistency before advanced analysis.
+Therefore, the dataset appears suitable for analysis with ony routine validation checks required.
