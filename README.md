@@ -44,3 +44,26 @@ Therefore, the dataset appears suitable for analysis with ony routine validation
   2. PK-KISAN Coverage rate
      Formula: (PK-KISAN Beneficiaries/ Total Households)*100
      Reason : This Measure the  Proportion of households receiving PM-KISAN benefits. It helps asses the reach of  agricultural welfare support across constituencies and highlights areas where beneficiary coverage may be relatively low.
+
+## Section 2:  Analytical Deep- Dive
+
+### 1. Regional Disparities
+  To find out the average I have analyzed data from 60 constituencies across Meghalaya to compare  JJM Water Coverage, Road infrastructure, and  Literacy rate for Khasi, Jaintia and Garo Hills regions.
+  
+Steps i followed :
+
+1. I used the 'Averageif' function in Excel to calculate the mean for each region.
+
+2.  The data was already in percentage form. So '66.3' means 66.3%.
+
+ Results Table :
+
+ Regional Disparities	JJM	Road Infrastructure	Literacy
+Khasi Hills	66.30%	66.70%	80.30%
+Jaintia Hills	50.80%	51.50%	74.50%
+Garo Hills	45.10%	56.10%	72.90%
+
+Data Analysis: The data shows clear regional disparities. Khasi Hills lead in all three indicators due to the presence of  Shillong, the state Capital and  administrative centre. The biggest gap is in JJM coverage, where Garo Hills at 45.1% is over 20% behind Khasi Hills. Interestingly, Garo Hills has better road infrastructure at 56.1% than Jaintia Hills at 51.5%, despite lagging inwater and literacy. This suggests uneven development priorities across regions.
+
+
+
