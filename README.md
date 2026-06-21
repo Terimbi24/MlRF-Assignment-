@@ -69,6 +69,9 @@ Steps i followed :
 | Jaintia Hills | 50.80% | 51.50% | 74.50% |
 | Garo Hills | 45.10% | 56.10% | 72.90% |
 
+<img width="754" height="454" alt="image" src="https://github.com/user-attachments/assets/4bb20b93-8658-47c9-8ff4-f2f0cf674251" />
+
+
 Data Analysis: The data shows clear regional disparities. Khasi Hills lead in all three indicators due to the presence of  Shillong, the state Capital and  administrative centre. The biggest gap i in JJM Coverage, where garo Hills at 45.1% is over 20% behind Khasi Hills. However, Garo Hills has better road infrastructure at 56.1% than Jaintia Hills at 51.5%, despite lagging in water and  literacy. This suggest uneven development priorities across regions.
 
 ### Section 2 Q2: Scheme Delivery Gaps
@@ -99,6 +102,9 @@ The 10 constituencies with lowest JJM coverage are:
 | 9 | Ampati | Garo Hills | 28.4 |
 | 10 | Umsning | Khasi Hills | 28.4 |
 
+<img width="1927" height="861" alt="image" src="https://github.com/user-attachments/assets/3e687856-d439-47ab-b115-a47bcc234d94" />
+
+
 Regional count: 6 Garo Hills, 3 Khasi Hills, 1 Jaintia Hills. JJM coverage in these areas ranges from 24.1% to 28.4%, compared to the state average of 57.3%.
 
 Data Analysis:
@@ -115,6 +121,9 @@ The dataset was sorted by 'constituency fund untilized' in ascending order. The 
 Findings:
 
 The lowest fund utilisation was observed in Khliehriat (44.2%), Mendipathar (45.8%), Songsak (47.1%), Selsella (48.3%), and Williamnagar (49.2%). Four are in Garo Hills. All five exhibit high BPL rates (58.3%–64.8%) and low JJM coverage (24.1%–28.2%), indicating poverty and infrastructure deficits.
+
+<img width="754" height="454" alt="image" src="https://github.com/user-attachments/assets/09187079-5bf2-4583-9fae-c381074c6718" />
+
 
 Hypothesis:
 
