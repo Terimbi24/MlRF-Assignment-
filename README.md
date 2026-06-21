@@ -53,7 +53,7 @@ MlRF Assignment Submission
 ## Section 2:  Analytical Deep- Dive
 
 ### 1. Regional Disparities
-   To find out the average I have analyzed data from 60 constituencies across Meghalaya to compare  JJM Water Coverage, Road infrastructure, and  Literacy rate for Khasi, Jaintia and Garo Hills region[...]
+   To find out the average I have analyzed data from 60 constituencies across Meghalaya to compare  JJM Water Coverage, Road infrastructure, and  Literacy rate for Khasi, Jaintia and Garo Hills region.
    
 Steps i followed :
 
@@ -69,4 +69,37 @@ Steps i followed :
 | Jaintia Hills | 50.80% | 51.50% | 74.50% |
 | Garo Hills | 45.10% | 56.10% | 72.90% |
 
-Data Analysis: The data shows clear regional disparities. Khasi Hills lead in all three indicators due to the presence of  Shillong, the state Capital and  administrative centre. The biggest gap i in [...]
+Data Analysis: The data shows clear regional disparities. Khasi Hills lead in all three indicators due to the presence of  Shillong, the state Capital and  administrative centre. The biggest gap i in JJM Coverage, where garo Hills at 45.1% is over 20% behind Khasi Hills. However, Garo Hills has better road infrastructure at 56.1% than Jaintia Hills at 51.5%, despite lagging in water and  literacy. This suggest uneven development priorities across regions.
+
+### Section 2 Q2: Scheme Delivery Gaps
+
+
+To identify the 10 constituencies with the lowest JJM functional tap connection coverage and examine geographic patterns in scheme delivery across Meghalaya.
+
+Steps I followed:
+1. Opened `sample_meghalaya_constituency_data.csv` in Excel.
+2. Used `Data` → `Sort` to sort the entire dataset by `JJM_Functional_Tap_Connections_Pct` from `Smallest to Largest`.
+3. Selected the first 10 rows after sorting as the constituencies with lowest JJM coverage.
+4. Counted constituencies by region to check for geographic concentration.
+5. Created a clustered bar chart of `JJM Coverage %` for the bottom 10 constituencies.
+
+Findings:
+The 10 constituencies with lowest JJM coverage are:
+
+| Rank | Constituency | Region | JJM Coverage % |
+| --- | --- | --- | --- |
+| 1 | Kharkutta | Garo Hills | 24.1 |
+| 2 | Khliehriat | Jaintia Hills | 24.1 |
+| 3 | Sohiong | Khasi Hills | 26.6 |
+| 4 | Mendipathar | Garo Hills | 27.1 |
+| 5 | Selsella | Garo Hills | 27.4 |
+| 6 | Mawphlang | Khasi Hills | 27.4 |
+| 7 | Songsak | Garo Hills | 27.6 |
+| 8 | Williamnagar | Garo Hills | 28.2 |
+| 9 | Ampati | Garo Hills | 28.4 |
+| 10 | Umsning | Khasi Hills | 28.4 |
+
+Regional count: 6 Garo Hills, 3 Khasi Hills, 1 Jaintia Hills. JJM coverage in these areas ranges from 24.1% to 28.4%, compared to the state average of 57.3%.
+
+Data Analysis:
+JJM delivery gaps are heavily concentrated in Garo Hills, which has 6 of the 10 worst-performing constituencies. Kharkutta and Mendipathar show less than 28% household coverage, meaning 3 in 4 homes lack functional tap connections. This reflects Garo Hills’ challenges of hilly terrain, sparse road networks, and weaker administrative reach. Khasi Hills constituencies like Sohiong and Mawphlang also appear, indicating that high rainfall damages pipelines and tanks, causing service failures even in developed areas. Khliehriat in Jaintia Hills suggests mining zones face water contamination and infrastructure neglect. The pattern shows geography and infrastructure access drive scheme failure more than poverty alone. Policy must prioritize last-mile connectivity and climate-resilient pipelines in Garo Hills, plus better maintenance funding for Khasi Hills monsoon damage. Without region-specific interventions, JJM will not achieve universal coverage in Meghalaya. 
