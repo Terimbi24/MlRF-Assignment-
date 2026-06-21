@@ -28,13 +28,13 @@ MlRF Assignment Submission
 
 ### 2. Data Quality Issues
 
-| Issue # | Variable(s) | Issue Type | Description | Status |
-|---------|-------------|-----------|-------------|--------|
-| 1 | Electorate size, Total Households, MGNREGS Active Job Cards, PM-KISAN Beneficiaries | Outliers | Outliers may exist in these variables based on the range between minimum and maximum values | Requires Validation |
-| 2 | Voter Turnout%, Literacy Rate%, Internet 4G Coverage% | Range Validation | Percentage variables are within the valid range of 0-100 | ✓ Valid |
-| 3 | All Numerical Columns | Missing Values & Consistency | Dataset should be checked for missing values and consistency before advanced analysis | Requires Validation |
+ 1  Electorate size, Total Households, MGNREGS Active Job Cards, PM-KISAN Beneficiaries  Outliers Outliers may exist in these variables based on the range between minimum and maximum values  Requires Validation 
+ 
+ 2  Voter Turnout%, Literacy Rate%, Internet 4G Coverage% Range Validation Percentage variables are within the valid range of 0-100   Valid 
+ 
+ 3  All Numerical Columns  Missing Values & Consistency  Dataset should be checked for missing values and consistency before advanced analysis  Requires Validation 
 
-**Overall Assessment:** The dataset appears suitable for analysis with only routine validation checks required.
+
 
 ### 3. Two Derived Columns
    1. BPL Households 
