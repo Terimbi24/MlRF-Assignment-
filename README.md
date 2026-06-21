@@ -77,11 +77,11 @@ Data Analysis: The data shows clear regional disparities. Khasi Hills lead in al
 To identify the 10 constituencies with the lowest JJM functional tap connection coverage and examine geographic patterns in scheme delivery across Meghalaya.
 
 Steps I followed:
-1. Opened `sample_meghalaya_constituency_data.csv` in Excel.
-2. Used `Data` → `Sort` to sort the entire dataset by `JJM_Functional_Tap_Connections_Pct` from `Smallest to Largest`.
+1. Opened 'Sample meghalaya constituency data' in Excel.
+2. Used 'Data' → 'Sort' to sort the entire dataset by 'JJM Functional Tap Connection' from 'Smallest to Largest'.
 3. Selected the first 10 rows after sorting as the constituencies with lowest JJM coverage.
 4. Counted constituencies by region to check for geographic concentration.
-5. Created a clustered bar chart of `JJM Coverage %` for the bottom 10 constituencies.
+5. Created a clustered bar chart of 'JJM Coverage %' for the bottom 10 constituencies.
 
 Findings:
 The 10 constituencies with lowest JJM coverage are:
