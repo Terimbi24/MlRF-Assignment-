@@ -117,4 +117,10 @@ Findings:
 The lowest fund utilisation was observed in Khliehriat (44.2%), Mendipathar (45.8%), Songsak (47.1%), Selsella (48.3%), and Williamnagar (49.2%). Four are in Garo Hills. All five exhibit high BPL rates (58.3%–64.8%) and low JJM coverage (24.1%–28.2%), indicating poverty and infrastructure deficits.
 
 Hypothesis:
-Underutilisation likely stems from: 1) Geographic remoteness raising project costs, 2) Limited administrative capacity in poor constituencies, 3) Delays in clearances for land and forests, and 4) A cyclical poverty-trap where weak governance leads to unspent funds and continued underdevelopment.
+
+Underutilisation likely stems from:
+
+1) Geographic remoteness raising project costs
+3) Limited administrative capacity in poor constituencies
+5) Delays in clearances for land and forests and,
+6)  A cyclical poverty-trap where weak governance leads to unspent funds and continued underdevelopment.
