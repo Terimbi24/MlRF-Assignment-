@@ -103,3 +103,18 @@ Regional count: 6 Garo Hills, 3 Khasi Hills, 1 Jaintia Hills. JJM coverage in th
 
 Data Analysis:
 JJM delivery gaps are heavily concentrated in Garo Hills, which has 6 of the 10 worst-performing constituencies. Kharkutta and Mendipathar show less than 28% household coverage, meaning 3 in 4 homes lack functional tap connections. This reflects Garo Hills’ challenges of hilly terrain, sparse road networks, and weaker administrative reach. Khasi Hills constituencies like Sohiong and Mawphlang also appear, indicating that high rainfall damages pipelines and tanks, causing service failures even in developed areas. Khliehriat in Jaintia Hills suggests mining zones face water contamination and infrastructure neglect. The pattern shows geography and infrastructure access drive scheme failure more than poverty alone. Policy must prioritize last-mile connectivity and climate-resilient pipelines in Garo Hills, plus better maintenance funding for Khasi Hills monsoon damage. Without region-specific interventions, JJM will not achieve universal coverage in Meghalaya. 
+
+
+### Section 2 Q3: Fund Utilisation
+
+
+To identify the five constituencies with the lowest Constituency Development Fund utilisation and analyse associated patterns.
+
+The dataset was sorted by 'constituency fund untilized' in ascending order. The bottom five constituencies were extracted and compared with `BPL_Households' using a clustered column chart.
+
+Findings:
+
+The lowest fund utilisation was observed in Khliehriat (44.2%), Mendipathar (45.8%), Songsak (47.1%), Selsella (48.3%), and Williamnagar (49.2%). Four are in Garo Hills. All five exhibit high BPL rates (58.3%–64.8%) and low JJM coverage (24.1%–28.2%), indicating poverty and infrastructure deficits.
+
+Hypothesis:
+Underutilisation likely stems from: 1) Geographic remoteness raising project costs, 2) Limited administrative capacity in poor constituencies, 3) Delays in clearances for land and forests, and 4) A cyclical poverty-trap where weak governance leads to unspent funds and continued underdevelopment.
