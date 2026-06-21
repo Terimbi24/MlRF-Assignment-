@@ -51,7 +51,7 @@ MlRF Assignment Submission
    
 Steps i followed :
 
-1. I used the 'Averageif' function in Excel to calculate the mean for each region.
+1. I used the 'AVERAGEIF' function in Excel to calculate the mean for each region.
 
 2.  The data was already in percentage form. So '66.3' means 66.3%.
 
