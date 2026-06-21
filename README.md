@@ -63,5 +63,5 @@ Steps i followed :
 | Jaintia Hills | 50.80% | 51.50% | 74.50% |
 | Garo Hills | 45.10% | 56.10% | 72.90% |
 
-Data Analysis: The data shows clear regional disparities. Khasi Hills lead in all three indicators due to the presence of  Shillong, the state Capital and  administrative centre. The biggest gap i sin JJM coverage, where Garo Hills at 45.1% is over 20% behimd Khasi Hills. However, Garo Hills  has better road infrastructure at 56.1% than Jaintia Hills at 51.5%, despite legging in water and literacy. This suggests uneven development priorities across regions.
+Data Analysis: The data shows clear regional disparities. Khasi Hills lead in all three indicators due to the presence of  Shillong, the state Capital and  administrative centre. The biggest gap i in JJM coverage, where Garo Hills at 45.1% is over 20% behind Khasi Hills. However, Garo Hills  has better road infrastructure at 56.1% than Jaintia Hills at 51.5%, despite legging in water and literacy. This suggests uneven development priorities across regions.
 
