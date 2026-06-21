@@ -28,26 +28,32 @@ MlRF Assignment Submission
 
 ### 2. Data Quality Issues
 
- 1  Electorate size, Total Households, MGNREGS Active Job Cards, PM-KISAN Beneficiaries  Outliers Outliers may exist in these variables based on the range between minimum and maximum values  Requires Validation 
- 
- 2  Voter Turnout%, Literacy Rate%, Internet 4G Coverage% Range Validation Percentage variables are within the valid range of 0-100   Valid 
- 
- 3  All Numerical Columns  Missing Values & Consistency  Dataset should be checked for missing values and consistency before advanced analysis  Requires Validation 
+1. **Electorate size, Total Households, MGNREGS Active Job Cards, PM-KISAN Beneficiaries** - Outliers
+   - Outliers may exist in these variables based on the range between minimum and maximum values
+   - Status: Requires Validation
 
+2. **Voter Turnout%, Literacy Rate%, Internet 4G Coverage%** - Range Validation
+   - Percentage variables are within the valid range of 0-100
+   - Status: ✓ Valid
 
+3. **All Numerical Columns** - Missing Values & Consistency
+   - Dataset should be checked for missing values and consistency before advanced analysis
+   - Status: Requires Validation
+
+**Overall Assessment:** The dataset appears suitable for analysis with only routine validation checks required.
 
 ### 3. Two Derived Columns
    1. BPL Households 
    Formula: ( BPL Household Count/ Total Households)* 100
-   Reason : The absolute number of BPL households does not account for difference in constitency size. Converting it into a percentage a better measure of poverty levels and allows meaningful comp[...]
+   Reason : The absolute number of BPL households does not account for difference in constitency size. Converting it into a percentage a better measure of poverty levels and allows meaningful comp[...[...]
   2. PK-KISAN Coverage rate
      Formula: (PK-KISAN Beneficiaries/ Total Households)*100
-     Reason : This Measure the  Proportion of households receiving PM-KISAN benefits. It helps asses the reach of  agricultural welfare support across constituencies and highlights areas where ben[...]
+     Reason : This Measure the  Proportion of households receiving PM-KISAN benefits. It helps asses the reach of  agricultural welfare support across constituencies and highlights areas where ben[...[...]
 
 ## Section 2:  Analytical Deep- Dive
 
 ### 1. Regional Disparities
-   To find out the average I have analyzed data from 60 constituencies across Meghalaya to compare  JJM Water Coverage, Road infrastructure, and  Literacy rate for Khasi, Jaintia and Garo Hills regions.
+   To find out the average I have analyzed data from 60 constituencies across Meghalaya to compare  JJM Water Coverage, Road infrastructure, and  Literacy rate for Khasi, Jaintia and Garo Hills region[...]
    
 Steps i followed :
 
@@ -63,5 +69,4 @@ Steps i followed :
 | Jaintia Hills | 50.80% | 51.50% | 74.50% |
 | Garo Hills | 45.10% | 56.10% | 72.90% |
 
-Data Analysis: The data shows clear regional disparities. Khasi Hills lead in all three indicators due to the presence of  Shillong, the state Capital and  administrative centre. The biggest gap i in JJM coverage, where Garo Hills at 45.1% is over 20% behind Khasi Hills. However, Garo Hills  has better road infrastructure at 56.1% than Jaintia Hills at 51.5%, despite legging in water and literacy. This suggests uneven development priorities across regions.
-
+Data Analysis: The data shows clear regional disparities. Khasi Hills lead in all three indicators due to the presence of  Shillong, the state Capital and  administrative centre. The biggest gap i in [...]
