@@ -130,6 +130,15 @@ Hypothesis:
 Underutilisation likely stems from:
 
 1) Geographic remoteness raising project costs
-3) Limited administrative capacity in poor constituencies
-5) Delays in clearances for land and forests and,
-6)  A cyclical poverty-trap where weak governance leads to unspent funds and continued underdevelopment.
+2) Limited administrative capacity in poor constituencies
+3) Delays in clearances for land and forests and,
+4)  A cyclical poverty-trap where weak governance leads to unspent funds and continued underdevelopment.
+
+
+### Q4 Finding – Additional Pattern: Regional Underperformance Despite Funds
+
+Observation:
+Across all 60 constituencies, Garo Hills consistently underperforms despite equal fund allocation. The region averages 72.3% JJM coverage vs Khasi 88.1%, 54.2% fund utilisation vs Khasi 76.8%, and 52.7% BPL households vs Khasi 34.2%. Even Garo’s best constituency underperforms Khasi’s average. Meanwhile, 8 of 10 constituencies with <50% fund utilisation are in Garo/Jaintia Hills, yet these regions have the highest infrastructure deficits.
+
+Hypothesis:
+This suggests a systemic regional capacity gap, not individual constituency failure. Probable causes: 1) Uniform funding ignores higher per-unit costs in hilly Garo/Jaintia terrain, 2) Administrative bandwidth is weaker in remote districts, causing project delays and fund lapses, 3) Topography increases JJM and road construction complexity. The pattern indicates the current “one-size-fits-all” allocation model fails to achieve equity, as identical funds produce unequal outcomes across regions.
