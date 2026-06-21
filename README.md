@@ -135,7 +135,7 @@ Underutilisation likely stems from:
 4)  A cyclical poverty-trap where weak governance leads to unspent funds and continued underdevelopment.
 
 
-### Q4 Finding – Additional Pattern: Regional Underperformance Despite Funds
+###  Section 2 Q4 Finding – Additional Pattern: Regional Underperformance Despite Funds
 
 Observation:
 Across all 60 constituencies, Garo Hills consistently underperforms despite equal fund allocation. The region averages 72.3% JJM coverage vs Khasi 88.1%, 54.2% fund utilisation vs Khasi 76.8%, and 52.7% BPL households vs Khasi 34.2%. Even Garo’s best constituency underperforms Khasi’s average. Meanwhile, 8 of 10 constituencies with <50% fund utilisation are in Garo/Jaintia Hills, yet these regions have the highest infrastructure deficits.
